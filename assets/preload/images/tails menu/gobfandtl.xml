@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gobfandtl.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PART 20000" x="0" y="0" width="147" height="156"/>
+	<SubTexture name="PART 20001" x="0" y="0" width="147" height="156"/>
+	<SubTexture name="PART 20002" x="0" y="0" width="147" height="156"/>
+	<SubTexture name="PART 20003" x="0" y="0" width="147" height="156"/>
+	<SubTexture name="PART 20004" x="0" y="0" width="147" height="156"/>
+	<SubTexture name="PART 20005" x="0" y="0" width="147" height="156"/>
+	<SubTexture name="PART 20006" x="0" y="0" width="147" height="156"/>
+	<SubTexture name="PART 20007" x="0" y="0" width="147" height="156"/>
+	<SubTexture name="PART 20008" x="0" y="0" width="147" height="156"/>
+	<SubTexture name="PART 20009" x="0" y="0" width="147" height="156"/>
+	<SubTexture name="PART 20010" x="0" y="0" width="147" height="156"/>
+	<SubTexture name="PART 20011" x="0" y="0" width="147" height="156"/>
+	<SubTexture name="PART 20012" x="0" y="0" width="147" height="156"/>
+	<SubTexture name="PART 20013" x="0" y="0" width="147" height="156"/>
+	<SubTexture name="PART 20014" x="0" y="0" width="147" height="156"/>
+	<SubTexture name="hate i xmls0000" x="147" y="0" width="513" height="81" frameX="0" frameY="-133" frameWidth="513" frameHeight="214"/>
+	<SubTexture name="hate i xmls0001" x="0" y="156" width="464" height="81" frameX="-25" frameY="-106" frameWidth="513" frameHeight="214"/>
+	<SubTexture name="hate i xmls0002" x="464" y="156" width="416" height="189" frameX="-49" frameY="-25" frameWidth="513" frameHeight="214"/>
+	<SubTexture name="hate i xmls0003" x="464" y="156" width="416" height="189" frameX="-49" frameY="-25" frameWidth="513" frameHeight="214"/>
+	<SubTexture name="hate i xmls0004" x="0" y="345" width="384" height="214" frameX="-64" frameY="0" frameWidth="513" frameHeight="214"/>
+	<SubTexture name="hate i xmls0005" x="0" y="345" width="384" height="214" frameX="-64" frameY="0" frameWidth="513" frameHeight="214"/>
+	<SubTexture name="hate i xmls0006" x="0" y="345" width="384" height="214" frameX="-64" frameY="0" frameWidth="513" frameHeight="214"/>
+	<SubTexture name="hate i xmls0007" x="0" y="345" width="384" height="214" frameX="-64" frameY="0" frameWidth="513" frameHeight="214"/>
+	<SubTexture name="hate i xmls0008" x="0" y="345" width="384" height="214" frameX="-64" frameY="0" frameWidth="513" frameHeight="214"/>
+	<SubTexture name="hate i xmls0009" x="0" y="345" width="384" height="214" frameX="-64" frameY="0" frameWidth="513" frameHeight="214"/>
+	<SubTexture name="hate i xmls0010" x="0" y="345" width="384" height="214" frameX="-64" frameY="0" frameWidth="513" frameHeight="214"/>
+	<SubTexture name="hate i xmls0011" x="0" y="345" width="384" height="214" frameX="-64" frameY="0" frameWidth="513" frameHeight="214"/>
+	<SubTexture name="hate i xmls0012" x="0" y="345" width="384" height="214" frameX="-64" frameY="0" frameWidth="513" frameHeight="214"/>
+	<SubTexture name="hate i xmls0013" x="0" y="345" width="384" height="214" frameX="-64" frameY="0" frameWidth="513" frameHeight="214"/>
+	<SubTexture name="hate i xmls0014" x="0" y="345" width="384" height="214" frameX="-64" frameY="0" frameWidth="513" frameHeight="214"/>
+</TextureAtlas>

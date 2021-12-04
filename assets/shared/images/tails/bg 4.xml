@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg 4.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LOGA0000" x="0" y="0" width="2086" height="128"/>
+	<SubTexture name="Symbol 20000" x="0" y="128" width="2272" height="322"/>
+	<SubTexture name="Symbol 20001" x="0" y="128" width="2272" height="322"/>
+	<SubTexture name="Symbol 20002" x="0" y="450" width="2268" height="322" frameX="-2" frameY="0" frameWidth="2272" frameHeight="322"/>
+	<SubTexture name="Symbol 20003" x="0" y="450" width="2268" height="322" frameX="-2" frameY="0" frameWidth="2272" frameHeight="322"/>
+	<SubTexture name="Symbol 20004" x="0" y="450" width="2268" height="322" frameX="-2" frameY="0" frameWidth="2272" frameHeight="322"/>
+	<SubTexture name="Symbol 20005" x="0" y="772" width="2264" height="322" frameX="-4" frameY="0" frameWidth="2272" frameHeight="322"/>
+	<SubTexture name="Symbol 20006" x="0" y="772" width="2264" height="322" frameX="-4" frameY="0" frameWidth="2272" frameHeight="322"/>
+	<SubTexture name="Symbol 20007" x="0" y="772" width="2264" height="322" frameX="-4" frameY="0" frameWidth="2272" frameHeight="322"/>
+	<SubTexture name="Symbol 20008" x="0" y="1094" width="2256" height="322" frameX="-8" frameY="0" frameWidth="2272" frameHeight="322"/>
+	<SubTexture name="Symbol 20009" x="0" y="1094" width="2256" height="322" frameX="-8" frameY="0" frameWidth="2272" frameHeight="322"/>
+	<SubTexture name="Symbol 20010" x="0" y="1094" width="2256" height="322" frameX="-8" frameY="0" frameWidth="2272" frameHeight="322"/>
+	<SubTexture name="Symbol 20011" x="0" y="1094" width="2256" height="322" frameX="-8" frameY="0" frameWidth="2272" frameHeight="322"/>
+	<SubTexture name="bg0000" x="0" y="1416" width="1968" height="980"/>
+	<SubTexture name="grass0000" x="0" y="2396" width="2175" height="510"/>
+</TextureAtlas>

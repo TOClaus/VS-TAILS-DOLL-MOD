@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mysunsine.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="knife0000" x="0" y="0" width="56" height="20"/>
+	<SubTexture name="laptop0000" x="56" y="0" width="76" height="72"/>
+	<SubTexture name="stuffin0000" x="132" y="0" width="56" height="20"/>
+	<SubTexture name="sunsine0000" x="188" y="0" width="112" height="156"/>
+	<SubTexture name="tails dool0000" x="300" y="0" width="84" height="52"/>
+	<SubTexture name="text0000" x="384" y="0" width="502" height="74" frameX="0" frameY="0" frameWidth="556" frameHeight="149"/>
+	<SubTexture name="text0001" x="0" y="156" width="553" height="146" frameX="-3" frameY="-3" frameWidth="556" frameHeight="149"/>
+	<SubTexture name="text0002" x="553" y="156" width="357" height="75" frameX="-109" frameY="-9" frameWidth="556" frameHeight="149"/>
+</TextureAtlas>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="text port.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 50000" x="0" y="0" width="218" height="236" frameX="-25" frameY="-23" frameWidth="264" frameHeight="259"/>
+	<SubTexture name="Symbol 50001" x="218" y="0" width="233" height="242" frameX="-17" frameY="-17" frameWidth="264" frameHeight="259"/>
+	<SubTexture name="Symbol 50002" x="451" y="0" width="246" height="248" frameX="-10" frameY="-11" frameWidth="264" frameHeight="259"/>
+	<SubTexture name="Symbol 50003" x="697" y="0" width="259" height="254" frameX="-3" frameY="-5" frameWidth="264" frameHeight="259"/>
+	<SubTexture name="Symbol 50004" x="0" y="254" width="264" height="259"/>
+	<SubTexture name="Symbol 50005" x="264" y="254" width="263" height="255" frameX="-1" frameY="-4" frameWidth="264" frameHeight="259"/>
+	<SubTexture name="Symbol 50006" x="527" y="254" width="252" height="250" frameX="-7" frameY="-9" frameWidth="264" frameHeight="259"/>
+	<SubTexture name="Symbol 50007" x="779" y="254" width="241" height="246" frameX="-13" frameY="-13" frameWidth="264" frameHeight="259"/>
+	<SubTexture name="Symbol 50008" x="0" y="513" width="230" height="241" frameX="-19" frameY="-18" frameWidth="264" frameHeight="259"/>
+	<SubTexture name="Symbol 50009" x="230" y="513" width="218" height="236" frameX="-25" frameY="-23" frameWidth="264" frameHeight="259"/>
+	<SubTexture name="bf0000" x="448" y="513" width="261" height="223" frameX="0" frameY="-3" frameWidth="261" frameHeight="226"/>
+	<SubTexture name="bf0001" x="448" y="513" width="261" height="223" frameX="0" frameY="-3" frameWidth="261" frameHeight="226"/>
+	<SubTexture name="bf0002" x="709" y="513" width="261" height="226"/>
+	<SubTexture name="bf0003" x="709" y="513" width="261" height="226"/>
+	<SubTexture name="bf0004" x="448" y="513" width="261" height="223" frameX="0" frameY="-3" frameWidth="261" frameHeight="226"/>
+	<SubTexture name="bf0005" x="448" y="513" width="261" height="223" frameX="0" frameY="-3" frameWidth="261" frameHeight="226"/>
+	<SubTexture name="gf0000" x="0" y="754" width="264" height="258"/>
+	<SubTexture name="gf0001" x="0" y="754" width="264" height="258"/>
+	<SubTexture name="gf0002" x="264" y="754" width="264" height="257" frameX="0" frameY="-1" frameWidth="264" frameHeight="258"/>
+	<SubTexture name="gf0003" x="264" y="754" width="264" height="257" frameX="0" frameY="-1" frameWidth="264" frameHeight="258"/>
+	<SubTexture name="gf0004" x="0" y="754" width="264" height="258"/>
+	<SubTexture name="gf0005" x="0" y="754" width="264" height="258"/>
+	<SubTexture name="gf0006" x="264" y="754" width="264" height="257" frameX="0" frameY="-1" frameWidth="264" frameHeight="258"/>
+	<SubTexture name="gf0007" x="528" y="754" width="264" height="257" frameX="0" frameY="-1" frameWidth="264" frameHeight="258"/>
+</TextureAtlas>

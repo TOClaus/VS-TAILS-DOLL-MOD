@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="jump 2.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tails animai0000" x="0" y="0" width="779" height="114" frameX="-25" frameY="-443" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0001" x="779" y="0" width="888" height="144" frameX="0" frameY="-413" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0002" x="0" y="144" width="805" height="385" frameX="-45" frameY="-172" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0003" x="0" y="144" width="805" height="385" frameX="-45" frameY="-172" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0004" x="805" y="144" width="764" height="557" frameX="-60" frameY="0" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0005" x="805" y="144" width="764" height="557" frameX="-60" frameY="0" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0006" x="0" y="701" width="764" height="537" frameX="-60" frameY="-20" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0007" x="0" y="701" width="764" height="537" frameX="-60" frameY="-20" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0008" x="0" y="701" width="764" height="537" frameX="-60" frameY="-20" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0009" x="0" y="701" width="764" height="537" frameX="-60" frameY="-20" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0010" x="0" y="701" width="764" height="537" frameX="-60" frameY="-20" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0011" x="0" y="701" width="764" height="537" frameX="-60" frameY="-20" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0012" x="0" y="701" width="764" height="537" frameX="-60" frameY="-20" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0013" x="0" y="701" width="764" height="537" frameX="-60" frameY="-20" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0014" x="0" y="701" width="764" height="537" frameX="-60" frameY="-20" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0015" x="0" y="701" width="764" height="537" frameX="-60" frameY="-20" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0016" x="0" y="701" width="764" height="537" frameX="-60" frameY="-20" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0017" x="0" y="701" width="764" height="537" frameX="-60" frameY="-20" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0018" x="0" y="701" width="764" height="537" frameX="-60" frameY="-20" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0019" x="0" y="701" width="764" height="537" frameX="-60" frameY="-20" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0020" x="0" y="701" width="764" height="537" frameX="-60" frameY="-20" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0021" x="764" y="701" width="805" height="550" frameX="-45" frameY="-7" frameWidth="888" frameHeight="557"/>
+	<SubTexture name="tails animai0022" x="0" y="1251" width="692" height="432" frameX="-107" frameY="-125" frameWidth="888" frameHeight="557"/>
+
+</TextureAtlas>

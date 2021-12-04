@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icons.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="freeplay-codingsuck0000" x="0" y="0" width="250" height="223"/>
+	<SubTexture name="freeplay-codingsuck0001" x="250" y="0" width="250" height="223"/>
+	<SubTexture name="freeplay-codingsuck0002" x="500" y="0" width="250" height="223"/>
+	<SubTexture name="freeplay-codingsuck0003" x="0" y="0" width="250" height="223"/>
+	<SubTexture name="freeplay-codingsuck0004" x="250" y="0" width="250" height="223"/>
+	<SubTexture name="freeplay-codingsuck0005" x="500" y="0" width="250" height="223"/>
+	<SubTexture name="freeplay-codingsuck0006" x="0" y="0" width="250" height="223"/>
+	<SubTexture name="freeplay-codingsuck0007" x="250" y="0" width="250" height="223"/>
+	<SubTexture name="freeplay-codingsuck0008" x="500" y="0" width="250" height="223"/>
+	<SubTexture name="freeplay-codingsuck0009" x="0" y="0" width="250" height="223"/>
+	<SubTexture name="freeplay-codingsuck0010" x="250" y="0" width="250" height="223"/>
+	<SubTexture name="freeplay-codingsuck0011" x="500" y="0" width="250" height="223"/>
+	<SubTexture name="freeplay-codingsuck0012" x="0" y="0" width="250" height="223"/>
+	<SubTexture name="freeplay-codingsuck0013" x="250" y="0" width="250" height="223"/>
+	<SubTexture name="freeplay-codingsuck0014" x="500" y="0" width="250" height="223"/>
+	<SubTexture name="freeplay-pick0000" x="750" y="0" width="251" height="321"/>
+	<SubTexture name="freeplay-pick0001" x="1001" y="0" width="251" height="321"/>
+	<SubTexture name="freeplay-pick0002" x="1252" y="0" width="251" height="321"/>
+	<SubTexture name="freeplay-pick0003" x="1503" y="0" width="251" height="321"/>
+	<SubTexture name="freeplay-pick0004" x="1754" y="0" width="251" height="321"/>
+	<SubTexture name="freeplay-pick0005" x="2005" y="0" width="251" height="321"/>
+	<SubTexture name="freeplay-pick0006" x="2256" y="0" width="251" height="321"/>
+	<SubTexture name="freeplay-pick0007" x="2507" y="0" width="251" height="321"/>
+	<SubTexture name="freeplay-pick0008" x="2005" y="0" width="251" height="321"/>
+	<SubTexture name="freeplay-pick0009" x="2758" y="0" width="251" height="321"/>
+	<SubTexture name="freeplay-pick0010" x="3009" y="0" width="251" height="321"/>
+	<SubTexture name="freeplay-pick0011" x="1252" y="0" width="251" height="321"/>
+	<SubTexture name="freeplay-pick0012" x="3260" y="0" width="251" height="321"/>
+	<SubTexture name="freeplay-pick0013" x="3511" y="0" width="251" height="321"/>
+	<SubTexture name="freeplay-pick0014" x="3762" y="0" width="251" height="321"/>
+	<SubTexture name="lostdata-codingsuck0000" x="0" y="321" width="271" height="239" frameX="0" frameY="-13" frameWidth="280" frameHeight="252"/>
+	<SubTexture name="lostdata-codingsuck0001" x="271" y="321" width="254" height="239" frameX="-8" frameY="0" frameWidth="280" frameHeight="252"/>
+	<SubTexture name="lostdata-codingsuck0002" x="525" y="321" width="250" height="236" frameX="-14" frameY="-3" frameWidth="280" frameHeight="252"/>
+	<SubTexture name="lostdata-codingsuck0003" x="775" y="321" width="264" height="226" frameX="0" frameY="-13" frameWidth="280" frameHeight="252"/>
+	<SubTexture name="lostdata-codingsuck0004" x="1039" y="321" width="266" height="222" frameX="-14" frameY="-17" frameWidth="280" frameHeight="252"/>
+	<SubTexture name="lostdata-pick0000" x="1305" y="321" width="272" height="333" frameX="0" frameY="0" frameWidth="281" frameHeight="333"/>
+	<SubTexture name="lostdata-pick0001" x="1577" y="321" width="260" height="320" frameX="-3" frameY="0" frameWidth="281" frameHeight="333"/>
+	<SubTexture name="lostdata-pick0002" x="1837" y="321" width="262" height="320" frameX="-3" frameY="0" frameWidth="281" frameHeight="333"/>
+	<SubTexture name="lostdata-pick0003" x="2099" y="321" width="265" height="321" frameX="-1" frameY="0" frameWidth="281" frameHeight="333"/>
+	<SubTexture name="lostdata-pick0004" x="2364" y="321" width="278" height="320" frameX="-3" frameY="0" frameWidth="281" frameHeight="333"/>
+	<SubTexture name="lostdata-pick0005" x="2642" y="321" width="272" height="333" frameX="0" frameY="0" frameWidth="281" frameHeight="333"/>
+	<SubTexture name="lostdata-pick0006" x="2914" y="321" width="260" height="320" frameX="-3" frameY="0" frameWidth="281" frameHeight="333"/>
+	<SubTexture name="lostdata-pick0007" x="3174" y="321" width="262" height="320" frameX="-3" frameY="0" frameWidth="281" frameHeight="333"/>
+	<SubTexture name="lostdata-pick0008" x="3436" y="321" width="265" height="321" frameX="-1" frameY="0" frameWidth="281" frameHeight="333"/>
+	<SubTexture name="lostdata-pick0009" x="2364" y="321" width="278" height="320" frameX="-3" frameY="0" frameWidth="281" frameHeight="333"/>
+	<SubTexture name="options-codingsuck0000" x="3701" y="321" width="250" height="224"/>
+	<SubTexture name="options-codingsuck0001" x="0" y="654" width="250" height="224"/>
+	<SubTexture name="options-codingsuck0002" x="250" y="654" width="250" height="224"/>
+	<SubTexture name="options-codingsuck0003" x="3701" y="321" width="250" height="224"/>
+	<SubTexture name="options-codingsuck0004" x="0" y="654" width="250" height="224"/>
+	<SubTexture name="options-codingsuck0005" x="250" y="654" width="250" height="224"/>
+	<SubTexture name="options-codingsuck0006" x="3701" y="321" width="250" height="224"/>
+	<SubTexture name="options-codingsuck0007" x="0" y="654" width="250" height="224"/>
+	<SubTexture name="options-codingsuck0008" x="250" y="654" width="250" height="224"/>
+	<SubTexture name="options-codingsuck0009" x="3701" y="321" width="250" height="224"/>
+	<SubTexture name="options-codingsuck0010" x="0" y="654" width="250" height="224"/>
+	<SubTexture name="options-codingsuck0011" x="250" y="654" width="250" height="224"/>
+	<SubTexture name="options-codingsuck0012" x="3701" y="321" width="250" height="224"/>
+	<SubTexture name="options-codingsuck0013" x="0" y="654" width="250" height="224"/>
+	<SubTexture name="options-codingsuck0014" x="250" y="654" width="250" height="224"/>
+	<SubTexture name="options-pick0000" x="500" y="654" width="255" height="319"/>
+	<SubTexture name="options-pick0001" x="755" y="654" width="255" height="319"/>
+	<SubTexture name="options-pick0002" x="1010" y="654" width="255" height="319"/>
+	<SubTexture name="options-pick0003" x="1265" y="654" width="255" height="319"/>
+	<SubTexture name="options-pick0004" x="1520" y="654" width="255" height="319"/>
+	<SubTexture name="options-pick0005" x="1775" y="654" width="255" height="319"/>
+	<SubTexture name="options-pick0006" x="2030" y="654" width="255" height="319"/>
+	<SubTexture name="options-pick0007" x="2285" y="654" width="255" height="319"/>
+	<SubTexture name="options-pick0008" x="1775" y="654" width="255" height="319"/>
+	<SubTexture name="options-pick0009" x="2540" y="654" width="255" height="319"/>
+	<SubTexture name="options-pick0010" x="2795" y="654" width="255" height="319"/>
+	<SubTexture name="options-pick0011" x="1010" y="654" width="255" height="319"/>
+	<SubTexture name="options-pick0012" x="3050" y="654" width="255" height="319"/>
+	<SubTexture name="options-pick0013" x="3305" y="654" width="255" height="319"/>
+	<SubTexture name="options-pick0014" x="3560" y="654" width="255" height="319"/>
+	<SubTexture name="story mode-codingsuck0000" x="3815" y="654" width="250" height="223"/>
+	<SubTexture name="story mode-codingsuck0001" x="0" y="973" width="250" height="223"/>
+	<SubTexture name="story mode-codingsuck0002" x="250" y="973" width="250" height="223"/>
+	<SubTexture name="story mode-codingsuck0003" x="3815" y="654" width="250" height="223"/>
+	<SubTexture name="story mode-codingsuck0004" x="0" y="973" width="250" height="223"/>
+	<SubTexture name="story mode-codingsuck0005" x="250" y="973" width="250" height="223"/>
+	<SubTexture name="story mode-codingsuck0006" x="3815" y="654" width="250" height="223"/>
+	<SubTexture name="story mode-codingsuck0007" x="0" y="973" width="250" height="223"/>
+	<SubTexture name="story mode-codingsuck0008" x="250" y="973" width="250" height="223"/>
+	<SubTexture name="story mode-codingsuck0009" x="3815" y="654" width="250" height="223"/>
+	<SubTexture name="story mode-codingsuck0010" x="0" y="973" width="250" height="223"/>
+	<SubTexture name="story mode-codingsuck0011" x="250" y="973" width="250" height="223"/>
+	<SubTexture name="story mode-codingsuck0012" x="3815" y="654" width="250" height="223"/>
+	<SubTexture name="story mode-codingsuck0013" x="0" y="973" width="250" height="223"/>
+	<SubTexture name="story mode-codingsuck0014" x="250" y="973" width="250" height="223"/>
+	<SubTexture name="story mode-pick0000" x="500" y="973" width="255" height="322"/>
+	<SubTexture name="story mode-pick0001" x="755" y="973" width="255" height="322"/>
+	<SubTexture name="story mode-pick0002" x="1010" y="973" width="255" height="322"/>
+	<SubTexture name="story mode-pick0003" x="1265" y="973" width="255" height="322"/>
+	<SubTexture name="story mode-pick0004" x="1520" y="973" width="255" height="322"/>
+	<SubTexture name="story mode-pick0005" x="1775" y="973" width="255" height="322"/>
+	<SubTexture name="story mode-pick0006" x="2030" y="973" width="255" height="322"/>
+	<SubTexture name="story mode-pick0007" x="2285" y="973" width="255" height="322"/>
+	<SubTexture name="story mode-pick0008" x="1775" y="973" width="255" height="322"/>
+	<SubTexture name="story mode-pick0009" x="2540" y="973" width="255" height="322"/>
+	<SubTexture name="story mode-pick0010" x="2795" y="973" width="255" height="322"/>
+	<SubTexture name="story mode-pick0011" x="1010" y="973" width="255" height="322"/>
+	<SubTexture name="story mode-pick0012" x="3050" y="973" width="255" height="322"/>
+	<SubTexture name="story mode-pick0013" x="3305" y="973" width="255" height="322"/>
+	<SubTexture name="story mode-pick0014" x="3560" y="973" width="255" height="322"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="storymode.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg for menus0000" x="0" y="0" width="562" height="536"/>
+	<SubTexture name="bg icon0000" x="562" y="0" width="495" height="171"/>
+	<SubTexture name="bg icon0001" x="1057" y="0" width="495" height="171"/>
+	<SubTexture name="bg icon0002" x="1552" y="0" width="493" height="171" frameX="0" frameY="0" frameWidth="495" frameHeight="171"/>
+	<SubTexture name="bg icon0003" x="0" y="536" width="487" height="171" frameX="0" frameY="0" frameWidth="495" frameHeight="171"/>
+	<SubTexture name="iconbf0000" x="487" y="536" width="291" height="175"/>
+</TextureAtlas>

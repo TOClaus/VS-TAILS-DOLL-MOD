@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf curs.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf curs0000" x="0" y="0" width="374" height="427"/>
+	<SubTexture name="gf curs0001" x="374" y="0" width="374" height="427"/>
+	<SubTexture name="gf curs0002" x="748" y="0" width="374" height="427"/>
+	<SubTexture name="gf curs0003" x="1122" y="0" width="374" height="427"/>
+	<SubTexture name="gf curs0004" x="1496" y="0" width="374" height="427"/>
+	<SubTexture name="gf curs0005" x="0" y="427" width="374" height="427"/>
+	<SubTexture name="gf curs0006" x="374" y="427" width="374" height="427"/>
+	<SubTexture name="gf curs0007" x="748" y="427" width="374" height="427"/>
+	<SubTexture name="gf curs0008" x="1122" y="427" width="374" height="427"/>
+	<SubTexture name="gf curs0009" x="1496" y="427" width="374" height="427"/>
+	<SubTexture name="gf curs0010" x="0" y="854" width="374" height="427"/>
+	<SubTexture name="gf curs0011" x="374" y="854" width="374" height="427"/>
+	<SubTexture name="gf curs0012" x="748" y="854" width="374" height="427"/>
+	<SubTexture name="gf curs0013" x="1122" y="854" width="374" height="427"/>
+	<SubTexture name="gf curs0014" x="1496" y="854" width="374" height="427"/>
+	<SubTexture name="gf curs0015" x="0" y="1281" width="374" height="427"/>
+	<SubTexture name="gf curs0016" x="374" y="1281" width="374" height="427"/>
+	<SubTexture name="gf curs0017" x="374" y="1281" width="374" height="427"/>
+	<SubTexture name="gf curs0018" x="374" y="1281" width="374" height="427"/>
+	<SubTexture name="gf curs0019" x="374" y="1281" width="374" height="427"/>
+</TextureAtlas>

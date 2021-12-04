@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="iloveyouguys.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="block instance 10000" x="0" y="0" width="668" height="120" frameX="-32" frameY="-771" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10001" x="668" y="0" width="641" height="605" frameX="-29" frameY="-286" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10002" x="1309" y="0" width="506" height="871" frameX="-84" frameY="-20" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10003" x="1815" y="0" width="487" height="877" frameX="-110" frameY="-14" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10004" x="2302" y="0" width="480" height="882" frameX="-136" frameY="-9" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10005" x="2782" y="0" width="477" height="886" frameX="-163" frameY="-5" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10006" x="3259" y="0" width="474" height="889" frameX="-190" frameY="-2" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10007" x="0" y="889" width="471" height="891" frameX="-218" frameY="0" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10008" x="471" y="889" width="498" height="874" frameX="-95" frameY="-17" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10009" x="969" y="889" width="566" height="840" frameX="0" frameY="-51" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10010" x="1535" y="889" width="557" height="852" frameX="-14" frameY="-39" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10011" x="2092" y="889" width="531" height="862" frameX="-48" frameY="-29" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10012" x="2623" y="889" width="506" height="871" frameX="-84" frameY="-20" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10013" x="3129" y="889" width="480" height="879" frameX="-120" frameY="-12" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10014" x="0" y="1780" width="569" height="859" frameX="-81" frameY="-32" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10015" x="569" y="1780" width="657" height="840" frameX="-43" frameY="-51" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10016" x="1226" y="1780" width="618" height="844" frameX="-38" frameY="-47" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10017" x="1844" y="1780" width="586" height="848" frameX="-33" frameY="-43" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10018" x="2430" y="1780" width="578" height="630" frameX="-63" frameY="-261" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10019" x="3008" y="1780" width="569" height="411" frameX="-94" frameY="-480" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10020" x="0" y="2639" width="560" height="192" frameX="-125" frameY="-699" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10021" x="560" y="2639" width="0" height="0" frameX="499" frameY="-73" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10022" x="560" y="2639" width="0" height="0" frameX="499" frameY="-73" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10023" x="560" y="2639" width="0" height="0" frameX="499" frameY="-73" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10024" x="560" y="2639" width="0" height="0" frameX="499" frameY="-73" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10025" x="560" y="2639" width="0" height="0" frameX="499" frameY="-73" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10026" x="560" y="2639" width="0" height="0" frameX="499" frameY="-73" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10027" x="560" y="2639" width="0" height="0" frameX="499" frameY="-73" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10028" x="560" y="2639" width="0" height="0" frameX="499" frameY="-73" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10029" x="560" y="2639" width="0" height="0" frameX="499" frameY="-73" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10030" x="560" y="2639" width="0" height="0" frameX="499" frameY="-73" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10031" x="560" y="2639" width="0" height="0" frameX="499" frameY="-73" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10032" x="560" y="2639" width="0" height="0" frameX="499" frameY="-73" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10033" x="560" y="2639" width="0" height="0" frameX="499" frameY="-73" frameWidth="703" frameHeight="891"/>
+	<SubTexture name="block instance 10034" x="560" y="2639" width="0" height="0" frameX="499" frameY="-73" frameWidth="703" frameHeight="891"/>
+</TextureAtlas>
